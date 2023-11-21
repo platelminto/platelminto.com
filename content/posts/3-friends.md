@@ -1,6 +1,6 @@
 ---
 title: "Friends"
-description: What does a 20-something year-old have to say that hasn't been said before? Let's find out.
+description: "The f-word. Scary."
 date: 2023-01-21
 draft: false
 tags: [random-thoughts, friends]

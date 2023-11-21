@@ -1,6 +1,6 @@
 ---
 title: "Why write?"
-description: "The f-word. Scary."
+description: What does a 20-something year-old have to say that hasn't been said before? Let's find out.
 date: 2023-01-01
 draft: false
 tags: [random-thoughts, writing]

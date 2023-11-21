@@ -2,6 +2,6 @@
 
 . ./.env
 
-hugo && rsync -avz -e "ssh -p ${PORT}" --delete public/ "${USER}"@"${HOST}":"${DIR}" # this will delete everything on the server that's not in the local public folder
+hugo && rsync -avz -e "ssh -p ${PORT}" --delete public/ "${USER}"@"${HOST}":"${DIR}" # this will delete everything on the server's target folder, then copy the contents of public/
 
 exit 0
